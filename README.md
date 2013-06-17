@@ -9,3 +9,6 @@ You need GlucologicMt to make it work. To install it as a library, look here: ht
 Use one finger to scratch, two to fast forward.
 
 (I noted in the code where to add your song)
+
+
+note: I added the snippet to control the touchpad. Endless possibility with that thing!
